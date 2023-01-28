@@ -1,0 +1,3 @@
+[submodule "rvra"]
+	path = rvra
+	url = https://github.com/Brunno0/react-rv.git
