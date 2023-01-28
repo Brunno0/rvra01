@@ -6,7 +6,7 @@ import {
   Text,
   View,
 } from 'react-vr';
-
+// tada
 export default class HelloVirtualWorld extends React.Component {
   render() {
     return (
