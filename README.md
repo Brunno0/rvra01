@@ -29,9 +29,6 @@ Error: invalid regular expression. React-rv
 
 https://stackoverflow.com/questions/75270065/error-invalid-regular-expression-react-rv 
 
-
-Fala galera, não sei postar soluções mas encontrei esse erro ao instalar o react-rv. Após alguams buscas, encontrei a solução aqui no stack. Porém, em um caminho(path) diferente do comum. 
-
 Invalid regular expression: /(node_modules[\\\]react[\\\]dist[\\\].*|website\\node_modules\\.*|heapCapture\\bundle\.js|.*\\__tests__\\.*)$/: Unterminated character class
 
 Vá no arquivo: 
@@ -41,7 +38,7 @@ e substitua o REGEX sharedBlackList por:
 
 var sharedBlacklist = [/node_modules[\/\\]react[\/\\]dist[\/\\].*/,/website\/node_modules\/.*/,/heapCapture\/bundle\.js/,/.*\/__tests__\/.*/]
 
-Como não encontrei a solução por aí, resolver tentar postar aqui. :D 
+
 
 
 
