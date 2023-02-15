@@ -27,8 +27,6 @@ Acesse http://localhost:8081/vr/ em seu navegador para ver sua aplicacao rodando
 
 Error: invalid regular expression. React-rv 
 
-https://stackoverflow.com/questions/75270065/error-invalid-regular-expression-react-rv 
-
 Invalid regular expression: /(node_modules[\\\]react[\\\]dist[\\\].*|website\\node_modules\\.*|heapCapture\\bundle\.js|.*\\__tests__\\.*)$/: Unterminated character class
 
 Vá no arquivo: 
