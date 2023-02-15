@@ -1,6 +1,8 @@
 
 # React VR
-React VR é uma biblioteca JavaScript para criar aplicações de realidade virtual (VR) e realidade aumentada (AR) baseadas em React.
+React VR é uma biblioteca JavaScript de código aberto desenvolvida pelo Facebook para criar aplicações de realidade virtual (VR) e realidade aumentada (AR) baseadas em React.
+
+Com o React VR, é possível criar aplicativos em VR que funcionam em diversas plataformas, como dispositivos móveis e desktops. Ele utiliza o WebGL para renderizar gráficos em 3D, e fornece um conjunto de componentes que permitem criar ambientes interativos em 360 graus, bem como integrar elementos 2D na cena. Além disso, podemos combar como WebVR e A-Frame, para aprimorar ainda mais as experiências em VR.
 
 ## Instalação
 Para instalar o React VR, você precisa ter o Node.js e o React Native CLI instalados em sua máquina. Depois, basta executar o seguinte comando no terminal:
